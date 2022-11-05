@@ -21,7 +21,7 @@ body {
 }
 .menu {
     width: 15%;
-    background-color: #ECC8CD;
+    background-color: #CD83B1;
     padding: 10px 20px 0px;
     margin-left: -16px;
     margin-top: -9px;
@@ -33,11 +33,11 @@ body {
 table tr th{
     background-color: rgb(224, 206, 206);
 }
+.horarios table tr:hover td{
+    background-color: #CD83B1;
+}
 .tabela2{
     margin-top: 100px;
-}
-.especialidades{
-    margin-bottom: 70px;
 }
 .header img{
     width: 100%;
@@ -47,15 +47,20 @@ table tr th{
 .content h1{
     margin-top: -9px;
 }
+.horarios{
+    height: 200px;
+    margin-left: 12%;
+    margin-bottom: 40px;
+    
+}
 .content{
     background-color: rgb(255, 255, 255);
     min-height: 300px;
     padding: 20px;
 }
-.content img{
-    width: 500px;
-    margin-bottom: 30px
-    ;
+
+.especialidades{
+    background-color: #CD83B140;
 }
 .ft-cima{
     width: 1000px;
