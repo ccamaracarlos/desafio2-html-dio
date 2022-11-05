@@ -37,7 +37,7 @@ table tr th{
     margin-top: 55px;
 }
 .header img{
-    width: 1120px;
+    width: 100%;
     height: 207px;
     margin-bottom: -4px;
 }
@@ -48,10 +48,11 @@ table tr th{
     margin-top: -9px;
 }
 .content{
-    background-color: rgb(224, 206, 206);
+    background-color: rgb(255, 255, 255);
     min-height: 300px;
     padding: 20px;
 }
+
 .footer {
     background-color: rgb(128, 97, 128);
     margin-left: -226px;
